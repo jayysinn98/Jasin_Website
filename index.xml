@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jasin</title>
+    <link>https://jayysinn98.github.io/Jasin_Website/</link>
+    <description>Recent content on Jasin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jayysinn98.github.io/Jasin_Website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bugis</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/photog/bugis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/photog/bugis/</guid>
+      <description>Haji Lane - one of Singapore&amp;rsquo;s more popular attractions with some lovely murals.
+Fun fact : my go to shop to develop film is actually in the area. It&amp;rsquo;s called Triple D and is located at Burlington Square.
+ Shot with Minolta SRT 101 with Portra 400         </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/contact/</guid>
+      <description>I am easily reachable on the following platforms!
+   Platform URL     LinkedIn: https://www.linkedin.com/in/jasin-chow-561923183/   GitHub: https://github.com/jayysinn98   Instagram: https://www.instagram.com/jayy_sinn/   Twitter: https://twitter.com/jayy_sinn   Telegram: https://t.me/jayy_sinn    </description>
+    </item>
+    
+    <item>
+      <title>Customer Segmentation</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/data-science/customer-segmentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/data-science/customer-segmentation/</guid>
+      <description>Hackathon by Kantar Project done with : Jia Rong Chin, Jingyuan Zhang, Koh Shi En, Jonathan Wee and Kok Jin Wei 3rd-placed team overall Used transaction and items&#39; calories data recommendations to identify customers buying too much unhealthy food Used customers demographic data to select areas, age groups etc. for promotion RFM-modelling on customers&#39; media habits to identify media solutions to promote healthier eating and living Created recommender system, along with database of similar foods, to suggest healthier alternatives for unhealthy customers   Dictionary of healthier alternatives from our recommender system   Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>EPL 2020/21</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/data-science/epl20-21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/data-science/epl20-21/</guid>
+      <description>Analyzed players&#39; stats from Kaggle dataset Comparing goals/assits with expected goals/assists Which attackers overperformed? Does the data corroborate with teams&#39; styles of play? Which players were most decisive with their passes?  Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Katong</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/photog/katong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/photog/katong/</guid>
+      <description>Another personally memorable place, having spent my secondary school days here.
+Lovely quaint streets with top notch food all over, what&amp;rsquo;s there not to love?
+ Shot with Minolta SRT 101 with Cinestill 800          </description>
+    </item>
+    
+    <item>
+      <title>Lavender</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/photog/lavender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/photog/lavender/</guid>
+      <description>Rare place in Singapore still carrying pre 2010s vibes
+ Shot with Minolta SRT 101 with Porta 400      </description>
+    </item>
+    
+    <item>
+      <title>Model Ensembling</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/data-science/methods-ensembling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/data-science/methods-ensembling/</guid>
+      <description>Project to find best model for a given validation and hidden test data set Data cleaning for multiple fields Logistic Regression SMOTE Resampling Linear Discriminat Analysis Support Vector Machine XG Boost Ensembling all methods gave best results  Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Model Exploration</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/data-science/model-exploration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/data-science/model-exploration/</guid>
+      <description>Main takeaway from this simple project was that neural networks, while being &amp;lsquo;state of the art&amp;rsquo;, aren&amp;rsquo;t always the ideal solution, hence the need for simpler models such as linear regression!
+ Simple data cleaning Created, adjusted and regularized neural networks Created lasso model Created random forest Link to GitHub repository  </description>
+    </item>
+    
+    <item>
+      <title>Office Database</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/data-science/office-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/data-science/office-database/</guid>
+      <description>Project done with : Allan Tay, Keith Tay, Gordon Tham Created a database to simulate an office of employees, departments, meeting rooms Created functions to simulate employees&#39; activities such as booking of rooms and joining meetings Created triggers to simulate events as a result of employees falling sick   ER diagram to visualize the database   Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Sarcasm Redditector</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/data-science/sarcasm-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/data-science/sarcasm-detection/</guid>
+      <description>Project done with : Wei Heng Lee, Lim Shao Kiat, Yilin Chen, Grace Chua Tool to determine which Reddit comments were sarcastic Created Long Short Term Memory (LSTM) and Term Frequency-Inverse Document Frequency (TF-IDF) models Tuned Tokenizer object to include special characters instead Used Global Vectors (GloVe) embedding layer  Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Seletar</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/photog/seletar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/photog/seletar/</guid>
+      <description>Some shots of my home for ~1.5 years, having served in Seletar Camp for my National Service.
+ Shot with Minolta SRT 101 with Cinestill 800            </description>
+    </item>
+    
+    <item>
+      <title>Shill Bidders Classifier</title>
+      <link>https://jayysinn98.github.io/Jasin_Website/data-science/shill-bidding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayysinn98.github.io/Jasin_Website/data-science/shill-bidding/</guid>
+      <description>Shill Bidding dataset on Kaggle Project done with : Jia Rong Chin, Jingyuan Zhang, Koh Shi En, Jonathan Wee and Kok Jin Wei Identified Shill Bidders&#39; behaviour tendencies K-Means clustering using Within-Cluster-Sum-of-Squares (WCSS) and Silhouette Width t-distributed stochastic neighbor embedding (t-SNE) for visualization Used multiple classifiers such as Support Vector Machine (SVM) and Decision Tree   t-SNE clustering visualization   Link to GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>
